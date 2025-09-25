@@ -1,0 +1,31 @@
+export const LANGUAGES: string[] = [
+  'English',
+  'Spanish',
+  'French',
+  'German',
+  'Italiano',
+  'Portuguese',
+  'Dutch',
+  'Russian',
+  'Chinese (Simplified)',
+  'Japanese',
+  'Korean',
+  'Arabic',
+  'Hindi',
+];
+
+export const LANGUAGE_FLAGS: { [key: string]: string } = {
+  'English': '🇬🇧',
+  'Spanish': '🇪🇸',
+  'French': '🇫🇷',
+  'German': '🇩🇪',
+  'Italiano': '🇮🇹',
+  'Portuguese': '🇵🇹',
+  'Dutch': '🇳🇱',
+  'Russian': '🇷🇺',
+  'Chinese (Simplified)': '🇨🇳',
+  'Japanese': '🇯🇵',
+  'Korean': '🇰🇷',
+  'Arabic': '🇸🇦',
+  'Hindi': '🇮🇳',
+};

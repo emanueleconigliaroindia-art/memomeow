@@ -1,0 +1,7 @@
+{
+  "name": "MemoMeow",
+  "description": "MemoMeow è l'assistente accademico per le trascrizioni creato con amore da Emanuele. Trascrive fedelmente lezioni universitarie e le traduce, grazie alla potenza dell'AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
